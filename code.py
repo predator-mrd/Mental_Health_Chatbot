@@ -1,7 +1,7 @@
 import os
 
 # Paste your brand-new key exactly as shown in Groq console (no spaces/newlines)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "*************************************************"
 
 # Quick sanity check
 print("Key set?", "GROQ_API_KEY" in os.environ)
